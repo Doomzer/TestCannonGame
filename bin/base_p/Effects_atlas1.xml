@@ -1,0 +1,9 @@
+<Frames count="6" path="textures/particles/" group="Particles">
+	<frame x="1" y="1" width="21" height="21" innerX="0" innerY="0" frameWidth="21" frameHeight="21" path="fire.JPG"/>
+	<frame x="24" y="1" width="22" height="22" innerX="1" innerY="1" frameWidth="24" frameHeight="24" path="adot.png"/>
+	<frame x="48" y="1" width="32" height="32" innerX="0" innerY="0" frameWidth="32" frameHeight="32" path="4star.jpg"/>
+	<frame x="82" y="1" width="37" height="34" innerX="15" innerY="14" frameWidth="64" frameHeight="64" path="star.jpg"/>
+	<frame x="121" y="1" width="31" height="31" innerX="1" innerY="1" frameWidth="32" frameHeight="32" path="Bomb_boom"/>
+	<frame x="154" y="1" width="92" height="92" innerX="0" innerY="0" frameWidth="92" frameHeight="92" path="Bomb_ring"/>
+</Frames>
+

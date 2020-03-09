@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Resources>
+	<FreeTypeFonts group="TestGroup" upload="false">
+		<font name="ArialSmall" family="arial" size="12" color="255;255;255;255" letterSpacing="0">
+			<Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+		</font>
+    <font name="ArialMedium" family="arial" size="24" color="0;100;0;255" letterSpacing="0">
+      <Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+    </font>
+    <font name="ArialBig" family="arial" size="36" color="0;100;0;255" letterSpacing="0">
+      <Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+    </font>    
+	</FreeTypeFonts>
+	<Textures>
+    <texture id="Cannon" path="textures/Cannon.png" group="TestGroup" upload="false"/>
+    <texture id="Cannonball" path="textures/Cannonball.png" group="TestGroup" upload="false"/>
+
+    <texture id="background" path="textures/background.png" group="TestGroup" upload="false"/>
+
+    <texture id="Target_red" path="textures/Target_red.png" group="TestGroup" upload="false"/>
+    <texture id="Target_green" path="textures/Target_green.png" group="TestGroup" upload="false"/>
+    <texture id="Target_blue" path="textures/Target_blue.png" group="TestGroup" upload="false"/>
+    <texture id="Target_base" path="textures/Target_base.png" group="TestGroup" upload="false"/>
+    
+    <texture id="Aim" path="textures/Aim.png" group="TestGroup" upload="false"/>
+	</Textures>
+</Resources>
